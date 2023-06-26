@@ -1,11 +1,12 @@
 firebase.initializeApp({
-    apiKey: "AIzaSyDYeGXqwa4Cqlj8mDqt8Gn5dy4v88EhjQc",
-    authDomain: "mentor-sign-up-fb7a0.firebaseapp.com",
-    databaseURL: "https://mentor-sign-up-fb7a0-default-rtdb.firebaseio.com",
-    projectId: "mentor-sign-up-fb7a0",
-    storageBucket: "mentor-sign-up-fb7a0.appspot.com",
-    messagingSenderId: "775015643970",
-    appId: "1:775015643970:web:88b0893c8c37a88de1a6db"
+    apiKey: "AIzaSyCJYdnFXp8t_Sv469gYPqDmpKNzbQOHLt8",
+    authDomain: "nitcamp-sign-ups.firebaseapp.com",
+    databaseURL: "https://nitcamp-sign-ups-default-rtdb.firebaseio.com",
+    projectId: "nitcamp-sign-ups",
+    storageBucket: "nitcamp-sign-ups.appspot.com",
+    messagingSenderId: "93253238682",
+    appId: "1:93253238682:web:041073ee75937438074423",
+    measurementId: "G-RTT11HJQW8"
 });
 var ismentor = false;
 const departments = ["Architecture", "Biotechnology", "Chemical Engineering", "Civil Engineering", "Computer Science and Engineering", "Electrical and Electronics Engineering", "Electronics and Communication Engineering", "Engineering Physics", "Mathematics", "Mechanical Engineering", "Nanoscience and Technology", "Production Engineering", "Management Studies", "Others"];
