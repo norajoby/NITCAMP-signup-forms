@@ -1,2 +1,5 @@
-# NITCAMP-signup-forms
-Mentor &amp; Mentee sign up forms of NITCAMP
+# nitcaa_forms
+
+Mentor form -- https://mentor-signup-nitc.web.app/
+
+Mentee form -- https://mentee-signup-nitc.web.app/
